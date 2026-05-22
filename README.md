@@ -1,1 +1,1 @@
-# policyguardai-agent
+# policyguard-ai-agent
